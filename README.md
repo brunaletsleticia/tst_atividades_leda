@@ -1,3 +1,2 @@
-# tst_atividades_leda
-atividades do tst
-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
+# Atividades_leda
+Questões resolvidas, em java, do site TST-EDA da disciplina Estrutua de Dados da Universidade Federal de Campina Grande (UFCG)
